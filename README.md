@@ -77,7 +77,7 @@ Follow these steps to quickly set up ToolKit using [uv](https://github.com/astra
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/k1ll-chain/Bounty-ToolKit.git
+git clone https://github.com/k1ll-chain/Bounty-Tool.git
 cd Bounty-ToolKit/ToolKit
 ```
 
